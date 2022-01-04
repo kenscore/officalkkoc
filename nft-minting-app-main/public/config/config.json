@@ -1,0 +1,19 @@
+{
+  "CONTRACT_ADDRESS": "0x4b33b68da225f8d4152bf7a926eb9115fee1abf3",
+  "SCAN_LINK": "https://polygonscan.com/address/0x4b33b68da225f8d4152bf7a926eb9115fee1abf3",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Kooky Kangaroo Outback Club",
+  "SYMBOL": "KKCO",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 589765670000000000,
+  "DISPLAY_COST": 0.589765670,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/kooky-kangaroo-outback-club",
+  "SHOW_BACKGROUND": true
+
+}
